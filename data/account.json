@@ -1,0 +1,15 @@
+{
+
+    "image" : "./assets/images/profiles/img-2.jpg",
+    "image2" : "./assets/images/profiles/img-2.jpg",
+    "name" : "Sachin",
+    "email": "Sachin@gmail.com",
+    "website": "http://www.w3schools.com",
+    "location": "Indore",
+    "language" : "Russian",
+    "time" : "04:01",
+    "currency" : "Rupee",
+    "emailSub" : "On",
+    "sms" : "Off"
+    }
+  
